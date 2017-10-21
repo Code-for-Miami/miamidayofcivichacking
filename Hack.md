@@ -1,8 +1,8 @@
-Open Project Kit
+### Open Project Kit
 
 This guide helps you get stuff done, by providing a series objectives 
 
-Stage 1: Team formation
+## Stage 1: Team formation
 
 Create a document that answers the following questions: 
 
@@ -39,7 +39,7 @@ Create a document that answers the following questions:
   - When and how are you going to communicate about the project?
 
 
-  Stage 2: Gathering Specifications
+  ### Stage 2: Gathering Specifications
 
 Specifications gathering is about creating clear, concise details to better envision the project.
 We have provided multiple options for this step for they are many ways to tackle this.
@@ -61,23 +61,22 @@ We have provided multiple options for this step for they are many ways to tackle
       - Tip: a user story is structured with a particular format: 
         - As a [type of user] I want to [take a specific action] in order to [receive a specific benefit].
   
-Stage 3: Deliverables
+### Stage 3: Deliverables
 
 
-  - Option 1: Wireframes
-    - Tools
-      - Google Slides
-      - Keynote
-      - Powerpoint
-      - InvisionApp
-      - Sketch
-      - Photoshop
-  - Option 2: Journey Maps
-    - https://uxmastery.com/how-to-create-a-customer-journey-map/
-  - Option 3: Minimum Viable Prototype
-    - 
-    - Tools
-      - Frameworks
+- Option 1: Wireframes
+  - Tools
+    - Google Slides
+    - Keynote
+    - Powerpoint
+    - InvisionApp
+    - Sketch
+    - Photoshop
+- Option 2: Journey Maps
+  - https://uxmastery.com/how-to-create-a-customer-journey-map/    
+- Option 3: Minimum Viable Prototype
+- Tools
+- Frameworks
         - React
         - Vue
       - Databases
