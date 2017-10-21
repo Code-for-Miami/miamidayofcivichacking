@@ -1,6 +1,6 @@
 # 🌴Miami National Day of Civic Hacking 2017🌴 
 
-## October 21st @Cambridge Innovation Center
+## October 21st @ Cambridge Innovation Center
 🌪  The theme of Miami Day of Civic Hacking is Disaster Preparedness and Resiliency. 🌪 
 
 ##  Who can participate?
@@ -14,6 +14,9 @@ Use your skills to help understand the data and get important insights from it.
 Use your skills to develop solutions that can help solve important societal issues.
 * Designers -
 Help us make open data relatable, so more people will use it and understand it.
+
+## Review our Code of Conduct 
+Make the personal pledge to provide a safe space free from discrimination and harassment. [Read more here.](http://codefor.miami/code-of-conduct)
 
 ##  Get Started!
 
@@ -52,22 +55,45 @@ If you need help or have some specific questions, email co-captains [Julie](mail
 
 ## Schedule
 
-**09:00** — Breakfast
+**09:00** — Registration & Breakfast
 
-**09:30** — Opening Remarks
+**09:30** — Opening remarks + special guests Mike Sarasti, Chief Innovation Officer to the City of Miami & Jorge Besu, Code 4 Puerto Rico
 
 **10:00** — Start Projects
 
-**01:00** — Lunch Provided
+**10:00** — Breakout One: Learning to Map Your City with Susana Siman, Urban Planner
+
+**10:45** — Breakout Two: The Value In Data with Athena Hadjixenofontos, Center for Computational Science University of Miami
+
+**01:00** — Lunch
 
 **04:00** — Presentations
 
-**04:30** — Closing Remarks / Special Guest
+**04:30** — Final Remarks from Jane Gilbert, Chief Resilience Officer to the City of Miami
+
+**5:00** — After-brews provided by [Boxelder](http://www.bxldr.com/)
+
 
 ## Presentation Information
 
 - Length: 5 mins
 - [:computer: Please copy and paste into your own presentation](https://docs.google.com/presentation/d/1IKsq7ibQmzMiYRsv_AFuXrhgaLqNDfM-bFfxpRSY-aE/edit?usp=sharing)
+
+## Get Social
+**Twitter**
+@CodeForMiami  #HackforChange #DisasterHacks
+@Code4PuertoRico #Code4PuertoRico
+@sarasti
+@ResilientJane
+@codeforftl
+@hack4savannah
+@boxeldermiami
+
+**Instagram**
+@CodeForMiami  #HackforChange #DisasterHacks
+#Code4PuertoRico
+@codeforamerica
+@boxeldermiami
 
 ## Wondering how to propose or discuss your project ideas?
 
